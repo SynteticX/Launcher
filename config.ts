@@ -7,13 +7,13 @@ export const window = {
     resizable: false,
     maximizable: false,
     fullscreenable: false,
-    title: 'Aurora Launcher',
+    title: 'LomayCraft Launcher',
 };
 
 export const api = {
-    ws: 'ws://127.0.0.1:1370/ws',
-    web: 'http://127.0.0.1:1370',
+    ws: 'ws://lomaycraft.ru:1370/ws',
+    web: 'http://lomaycraft.ru:1370',
     // extraToken: token,
 };
 
-export const appPath = '.aurora-launcher';
+export const appPath = '.LomayCraft';

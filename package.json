@@ -89,12 +89,12 @@
     },
     "build": {
         "appId": "ru.aurora.launcher",
-        "productName": "Aurora Launcher",
+        "productName": "LomayCraft Launcher",
         "publish": [
             {
                 "provider": "github",
                 "releaseType": "release",
-                "owner": "AuroraTeam",
+                "owner": "AuroraTeam & LomayCraft Team",
                 "repo": "Launcher"
             }
         ],
